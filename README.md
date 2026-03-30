@@ -1,3 +1,3 @@
-# Python_Tatiana_Ecologia_Aplicada
-Scripts Python
-# Python_Tatiana_Ecologia_Aplicada
+# Python Tatiana Ecologia Aplicada
+
+Alguns scripts em Python para análise de dados
